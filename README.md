@@ -14,6 +14,7 @@ Tech Stack
 Token Details
 - Name: AMEYA Token
 - Symbol: AME
+- Total Supply: 50,000,000 AME 
 - Network: Sepolia Testnet
 
 Smart Contract
@@ -26,5 +27,6 @@ Deployment
 Contract Explorer
 - Contract Address: 0xEE2520ED78A4c51491D06a1622c178044cdD40D9
 - Explorer: https://sepolia.etherscan.io/address/0xEE2520ED78A4c51491D06a1622c178044cdD40D9
+
 
 
